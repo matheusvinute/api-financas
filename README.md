@@ -7,7 +7,7 @@ Este é um porjeto da trilha de estudos do Ignite de Nodejs sobre Repositorios
 
 ## Explicando
 
-Este é um projeto backend em Nodejs que faz o CRUD de gestão financeira pessoal, simulando depositos e gastos bancarios.
+Este é um projeto backend em Nodejs que faz o CRUD de gestão financeira pessoal, simulando depositos e gastos.
 
 
 ## Instruções
